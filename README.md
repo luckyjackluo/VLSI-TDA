@@ -1,6 +1,10 @@
 # VLSI-TDA
 Data Analysis Tool for VLSI circuits. Including statistical analysis, network analysis and topological analysis. 
 
+- link to research progress report: 
+https://docs.google.com/document/d/19oN9JVxgV0uL8esWjwRwWwS7EkCM7OWqfvsaetd7gRM/edit?usp=sharing
+
+
 Some examples:
 
 Netlist graph visualization with congestion values:
